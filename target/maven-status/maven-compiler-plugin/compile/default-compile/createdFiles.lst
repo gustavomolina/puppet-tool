@@ -1,0 +1,4 @@
+com\example\puppet\Client.class
+com\example\puppet\Configuration.class
+com\example\puppet\FileManager.class
+com\example\puppet\FileDefinition.class
