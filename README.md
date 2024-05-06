@@ -13,8 +13,6 @@ Run the following command to build the project:
 
 Bash
 mvn clean install
-Use o código com cuidado.
-Run the client with the master server URL as an argument:
 
 Bash
 java -jar puppet-client.jar <master_url>
